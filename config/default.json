@@ -1,0 +1,7 @@
+{
+  "serverPort" : 5000,
+  "dbUrl" : "mongodb+srv://GoodoK:ZZMXvdwWkG2xEtG@boardgamelist.2znrk.mongodb.net/PersonaList?retryWrites=true&w=majority",
+  "secretKey" : "Baba-frog",
+  "filePath": "/home/sargas/WebstormProjects/game-pers/server/files",
+  "staticPath": "/home/sargas/WebstormProjects/game-pers/server/static"
+}
